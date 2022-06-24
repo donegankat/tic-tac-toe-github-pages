@@ -1,5 +1,6 @@
 {
   "name": "tic-tac-toe-github-pages",
+  "homepage": "https://donegankat.github.io/tic-tac-toe-github-pages/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
